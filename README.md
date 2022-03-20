@@ -1,5 +1,5 @@
 # ALU
-* ALU implementation in VHDL. Vivado version 2018.02 is used.
+* ALU implementation in VHDL. Vivado 2018.02 version was used in this project.
 * The purpose of this repository is to perform logical operations such as addition and subtraction in the arithmetic unit and OR, AND, XOR in the logic unit. For this, two different encodings were made using the VHDL language in the Vivado program. One is implemented using component and accordingly the RTL schematics are also different. The same results were observed in the simulation.
 * You can read this file [rapor.pdf](https://github.com/suhedaras/ALU/blob/main/rapor.pdf) for detailed information about the project.
 
