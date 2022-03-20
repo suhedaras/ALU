@@ -3,7 +3,7 @@
 * For this, two different encodings were made using the VHDL language in the Vivado program. One is implemented using component and accordingly the RTL schematics are also different. The same results were observed in the simulation.
 * You can read this file [rapor.pdf](https://github.com/suhedaras/ALU/blob/main/rapor.pdf) for detailed information about the project.
 
-## ALU function table
+## ALU Function Table
   
 ![func_tab](https://user-images.githubusercontent.com/73580507/159151693-989f010a-1574-4249-a6be-95213f7fb30a.png)
 
@@ -11,7 +11,7 @@
   
 ![ALU](https://user-images.githubusercontent.com/73580507/159151635-3c3d40ec-9cbe-4cda-9da2-db6bf8af868a.png)
 
-### 1.1 RTL schematic
+### 1.1 RTL Schematic
   
 ![rtl](https://user-images.githubusercontent.com/73580507/159151732-e3c40b1e-ddf4-4879-967e-76303e304836.png)
 
@@ -37,7 +37,7 @@
 ![log2](https://user-images.githubusercontent.com/73580507/159152132-551e521e-7ab9-4ce5-b111-58d269eee173.png)
   
 ## 2.COMPONENT-FREE ALU DESIGN
-### 2.1 RTL schematic  
+### 2.1 RTL Schematic  
   
 ![rtl2](https://user-images.githubusercontent.com/73580507/159152308-dfa8625d-1fe7-457c-8643-f98df6cb1dc8.png)
 
