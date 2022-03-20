@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../muhtas_2.srcs/sources_1/new/arithmetic_unit.vhd" \
+"../../../../muhtas_2.srcs/sources_1/new/logic_unit.vhd" \
+"../../../../muhtas_2.srcs/sources_1/new/mux.vhd" \
+"../../../../muhtas_2.srcs/sources_1/new/alu.vhd" \
+
+# Do not sort compile order
+nosort
